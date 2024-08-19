@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Adapter_In_Android</string>
+
+    <string name="custom_post_follow">Follow</string>
+    <string name="custom_post_following">Following</string>
+    <string name="custom_post_post">Posts</string>
+    <string name="custom_post_followers">Followers</string>
+    <string name="custom_post_like">Like</string>
+    <string name="custom_post_share">Share</string>
+    <string name="custom_post_comment">Comment</string>
+    <string name="title_activity_customized_array_adapter">Hi</string>
+</resources>

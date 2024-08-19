@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامجي</string>
+    <string name="custom_post_follow">متابعة</string>
+    <string name="custom_post_following">المتابعين</string>
+    <string name="custom_post_post">المنشورات</string>
+    <string name="custom_post_followers">المتابعين</string>
+    <string name="custom_post_like">إعجاب</string>
+    <string name="custom_post_share">مشاركة</string>
+    <string name="custom_post_comment">تعليق</string>
+    <string name="title_activity_customized_array_adapter">مرحبا</string>
+</resources>
